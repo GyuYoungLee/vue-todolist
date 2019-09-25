@@ -1,0 +1,15 @@
+{
+  "name": "vue-todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/onReduce/vue-todo-app.git",
+  "author": "gylee <gylee@knowre.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "scripts": {
+	"deploy": "gh-pages -d ."
+  },
+  "homepage": "http://onreduce.github.io/vue-todo-app"
+}
