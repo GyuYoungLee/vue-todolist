@@ -11,5 +11,5 @@
   "scripts": {
 	"deploy": "gh-pages -d ."
   },
-  "homepage": "http://onReduce.github.io/vue-todo-app"
+  "homepage": "http://onreduce.github.io/vue-todo-app"
 }
